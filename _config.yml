@@ -1,7 +1,7 @@
 name: 'International Concierge & Logistics'
 favicon: null
-layout_spectrum: 0.0584864504635334
-typography_spectrum: 0.3199431379325688
+layout_spectrum: 0.11076
+typography_spectrum: 0.37415
 title: 'Handling your needs, anywhere, anytime, anyhow...'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3725736578926444
+  brandStrength: 0.75
   lightness: 0.3194711026735604
   saturation: 0.9303862198721617
   rhythmicContrast: 0.7337228192482144
